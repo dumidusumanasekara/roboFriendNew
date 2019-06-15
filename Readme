@@ -1,0 +1,12 @@
+What does it do?
+Search names from given API. auto generate Profile Pictures from the roboAPI
+
+What did I learn?
+
+1. How to communicate with Parent and Child components with state and props
+2. How to fetch API data and map to relevent UI fields
+3. How to search robo friends by name
+
+Technology Used
+
+React, CSS, Tachyons
